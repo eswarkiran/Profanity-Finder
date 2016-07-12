@@ -1,5 +1,6 @@
 import urllib
 def read():
+    #open(r"file location")
     quo = open(r"C:\Users\Kiran\Desktop\readfile.txt")
     content=quo.read()
     print(content)
